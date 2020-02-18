@@ -647,45 +647,16 @@ section.lazy-placeholder:after {
 .cid-rPvBb8N4Aw {
   padding-top: 0px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/mbr-8-1920x1280.jpg");
+  background-color: #073b4c;
 }
 .cid-rPvBb8N4Aw H1 {
   text-align: center;
+  color: #ffffff;
 }
-.cid-rQPTdE3ymt {
+.cid-rQRaMI3hbM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #073b4c;
-}
-.cid-rQPTdE3ymt .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rQPTdE3ymt .mbr-content-text {
-  color: #767676;
-}
-.cid-rQPTdE3ymt .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-rQPTdE3ymt .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-@media (max-width: 767px) {
-  .cid-rQPTdE3ymt .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
-}
-.cid-rQPTdE3ymt .img-text {
-  color: #c1c1c1;
+  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
 }
 .cid-rQPVPkm48x {
   background: #073b4c;
