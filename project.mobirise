@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "drtawfik",
-    "currentPage": "select.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,12 +58,12 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-125x117.png",
-    "google-analytics": "See your doctor from anywhere.\nOntario. Virtual care clinic. eDOCTORCARE.\nThe future of primary healthcare.\nRegistered patient.\nRichmond Hill.\nOntario.\nVirtual login",
-    "robotsSwitcher": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "google-analytics": "",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nSee your doctor from anywhere.\nOntario. Virtual care clinic. eDOCTORCARE.\nThe future of primary healthcare.\nRegistered patient.\nRichmond Hill.\nOntario.\nVirtual login",
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "HTTP://EDOCTORCARE.COM",
     "cookiesAlert": false,
     "gdpr": false
   },
