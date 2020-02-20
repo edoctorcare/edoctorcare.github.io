@@ -1,19 +1,12 @@
-<%@ page import = "java.io.*,java.util.*" %>
-
 <html>
-   <head>
-      <title>Page Redirection</title>
-   </head>
-   
-   <body>
-      <center>
-         <h1>Page Redirection</h1>
-      </center>
-      <%
-         // New location to be redirected
-         String site = new String("http://www.edoctorcare.com");
-         response.setStatus(response.SC_MOVED_TEMPORARILY);
-         response.setHeader("Location", site); 
-      %>
-   </body>
+  <head>
+    <title>Redirect JSP</title>
+  </head>
+  <body>
+    <%
+      System.out.println("Welcome Message : Redirect JSP");
+      request.setAttribute("Request-Attribute", "Value of Attribute ");
+      response.sendRedirect("http://www.edoctorcare.com");
+    %>
+  </body>
 </html>
