@@ -56,7 +56,16 @@
     "uniqCompNum": 42,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-125x117.png",
+    "google-analytics": "See your doctor from anywhere.\nOntario. Virtual care clinic. eDOCTORCARE.\nThe future of primary healthcare.\nRegistered patient.\nRichmond Hill.\nOntario.\nVirtual login",
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
