@@ -6,7 +6,7 @@
     <%
       System.out.println("Welcome Message : Redirect JSP");
       request.setAttribute("Request-Attribute", "Value of Attribute ");
-      response.sendRedirect("http://www.edoctorcare.com");
+      response.sendRedirect("/index.html");
     %>
   </body>
 </html>
