@@ -62,7 +62,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "eDOCTORCARE",
+        "title": "eDOCTORCARE  |  See your doctor from anywhere",
         "meta_descr": "Book video consultations with your family doctor today using eDOCTORCARE.",
         "header_custom": "",
         "footer_custom": "",
@@ -171,8 +171,8 @@
     },
     "getstarted.html": {
       "settings": {
-        "meta_descr": "Let's get started",
-        "title": "Let's get started",
+        "meta_descr": "eDOCTORCARE | Let's get started",
+        "title": "eDOCTORCARE | Let's get started",
         "order": 2
       },
       "components": [
@@ -321,8 +321,8 @@
     },
     "software.html": {
       "settings": {
-        "meta_descr": "Software required",
-        "title": "Software required",
+        "meta_descr": "eDOCTORCARE | Software required",
+        "title": "eDOCTORCARE | Software required",
         "order": 1
       },
       "components": [
@@ -472,8 +472,8 @@
     },
     "select.html": {
       "settings": {
-        "meta_descr": "Select your family doctor",
-        "title": "Family doctor selection",
+        "meta_descr": "eDOCTORCARE | Select your family doctor",
+        "title": "eDOCTORCARE | Family doctor selection",
         "order": 4
       },
       "components": [
