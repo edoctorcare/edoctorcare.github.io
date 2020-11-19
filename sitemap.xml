@@ -3,12 +3,9 @@
 		<loc>HTTP://EDOCTORCARE.COM/index.html</loc>
 	</url>
 	<url>
-		<loc>HTTP://EDOCTORCARE.COM/getstarted.html</loc>
-	</url>
-	<url>
-		<loc>HTTP://EDOCTORCARE.COM/software.html</loc>
-	</url>
-	<url>
 		<loc>HTTP://EDOCTORCARE.COM/select.html</loc>
+	</url>
+	<url>
+		<loc>HTTP://EDOCTORCARE.COM/booking.html</loc>
 	</url>
 </urlset>
