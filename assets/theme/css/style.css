@@ -1067,7 +1067,7 @@ transform: rotate(-90deg);
 margin:20% auto;
 top: 0px;
 bottom: 0px;
-left: 20%;
+left: 20px;
 z-index: 9999;
 position: fixed;
 }
