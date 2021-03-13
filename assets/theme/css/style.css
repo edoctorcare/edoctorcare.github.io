@@ -1062,13 +1062,12 @@ body {
 position: relative!important;
 }
 .myClassContainer .myClassbtn{
-position: absolute;
+position: fixed;
 transform: rotate(-90deg);
-margin:20% auto;
+margin: auto;
 top: 0px;
 bottom: 0px;
 left: 0px;
-z-index: 9999;
 position: fixed;
 }
 
@@ -1076,15 +1075,15 @@ position: fixed;
 .myClassContainer .myClassbtn{
 
 margin:20% auto;
-left: 25px;
+left: 0px;
 }
 }
 
 @media only screen and (max-width: 800px) { /*For Tab*/
 .myClassContainer .myClassbtn{
 
-margin:20% auto;
-left: 35px;
+margin: auto;
+left: 0px;
 }
 }
 
