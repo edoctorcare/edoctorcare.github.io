@@ -1058,35 +1058,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none; }
 
-.myClassContainer{
-position: relative!important;
-}
-.myClassContainer .myClassbtn{
-position: fixed;
-transform: rotate(-90deg);
-margin: auto;
-top: 0px;
-bottom: 0px;
-left: 0px;
-position: fixed;
-}
-
-@media only screen and (max-width: 450px) { /*For Mobile*/
-.myClassContainer .myClassbtn{
-
-margin:20% auto;
-left: 0px;
-}
-}
-
-@media only screen and (max-width: 800px) { /*For Tab*/
-.myClassContainer .myClassbtn{
-
-margin: auto;
-left: 0px;
-}
-}
-
 /*# sourceMappingURL=style.css.map */
 .engine {
 	position: absolute;
