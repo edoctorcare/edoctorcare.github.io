@@ -1315,34 +1315,10 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   content: '✓';
 }
-.cid-swRhoGbfb9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-swRhoGbfb9 .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-swRhoGbfb9 .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-swRhoGbfb9 .mbr-text,
-.cid-swRhoGbfb9 .mbr-section-btn {
-  color: #767676;
-  text-align: right;
-}
-.cid-swRhoGbfb9 .mbr-section-title {
-  color: #232323;
-  text-align: right;
-}
 .cid-spLnTksx1F {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-spLnTksx1F P {
   color: #767676;
